@@ -2,6 +2,9 @@
 
 This is the first file in this repo.
 
-##Ipsum Below 
+##Site files
 
-Hello muddu.
+Here are the files in the website root.
+
+1. index.html
+2. about.html
